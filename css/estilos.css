@@ -1,0 +1,13 @@
+.bg-padaria {
+  background-color: #B22222;
+}
+
+.espacamento {
+  letter-spacing: 1.5px;
+}
+.fundo {
+  background: url(../img/salao.jpg);
+  background-size: cover;
+  min-height: 600px; 
+  position: relative;
+}
